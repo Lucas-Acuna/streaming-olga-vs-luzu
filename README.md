@@ -55,3 +55,12 @@ En abril de 2025, *Nicolás Occhiato* (LUZU TV) generó polémica al acusar a *O
 ## 🌐 Relevancia cultural
 
 Este proyecto no sólo analiza datos, sino que documenta un fenómeno actual donde se cruzan cultura pop, entretenimiento digital y estrategias de marketing en plataformas de streaming.
+
+---
+
+📘 **Nota:**  
+Este proyecto fue desarrollado durante mi formación en **Data Science**, con el objetivo de analizar patrones de audiencia y comportamiento en transmisiones en vivo.  
+A través del estudio de métricas temporales y señales de posibles automatizaciones, exploré cómo los datos pueden reflejar dinámicas reales en comunidades digitales.  
+
+Actualmente, mi foco profesional está en la **Inteligencia Artificial aplicada al análisis de comportamiento, la automatización de procesos y la creación de asistentes inteligentes** que potencien la toma de decisiones en entornos digitales.
+
